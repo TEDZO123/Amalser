@@ -39,7 +39,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MYRANUMBI/Amalser)
   
 ### The Hard Method
 ```js
