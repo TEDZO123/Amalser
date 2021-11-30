@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/w89FHm7.jpeg>
+<img src=https://i.imgur.com/jL8OB0n.jpg>
 </p>
   <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://i.imgur.com/jFULdh7.jpg"></a>
